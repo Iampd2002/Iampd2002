@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iampd2002
+- 👋 Hi, I’m Pratik
 - 👀 I’m interested in Web Development and Data Analytics 
 - 🌱 Few of my skills are:
      • HTML/CSS
